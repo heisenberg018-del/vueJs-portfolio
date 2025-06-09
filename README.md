@@ -74,22 +74,3 @@ Insert full screenshots of:
 | Layout alignment issues           | Leveraged Bootstrap’s grid and utility classes like `h-100`, `align-items-center` |
 | Making quote generator dynamic    | Used array of strings and `Math.random()` to display a different quote each time |
 
----
-
-## ✅ Final Step: Delivery
-
-1. ✅ Push final project to GitHub with:
-   - Clean commits
-   - Updated README.md
-   - Screenshots in a `screenshots/` folder (optional)
-
-2. ✅ Export the PDF documentation.
-
----
-
-Let me know if you want:
-- A **custom PDF layout**
-- Help converting your screenshots into a printable layout
-- Help writing any section in a more polished or academic tone
-
-Would you like me to generate a ready-to-fill **PDF version** for download?
