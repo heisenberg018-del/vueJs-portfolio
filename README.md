@@ -1,14 +1,6 @@
 
 ---
 
-## ✅ 2. PDF Documentation Template
-
-### 📄 PDF Outline
-
-You can create this in **Google Docs**, **Word**, or **LaTeX** and export it to PDF. Here's what it should include:
-
----
-
 ### **1. Project Overview**
 > A dashboard-style Vue.js app to showcase my development portfolio. Includes a profile, project showcase, contact form, and a creative page with a random quote generator.
 
